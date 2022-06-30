@@ -1,6 +1,7 @@
 import "./Header.css";
 import TopMenu from "./TopMenu";
 import BottomMenu from "./BottomMenu";
+import React from 'react';
 import { useMediaQuery } from "react-responsive";
 import { RiMenuFill } from "react-icons/ri";
 

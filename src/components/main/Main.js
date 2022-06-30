@@ -1,6 +1,7 @@
 import Banner from "./Banner";
 import SmallBanner from "./SmallBanner";
 import MobileBanner from "./MobileBanner";
+import React from 'react';
 import { useMediaQuery } from "react-responsive";
 
 export default function Main() {
